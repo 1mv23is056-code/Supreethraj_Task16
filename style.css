@@ -1,0 +1,48 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        /* Styling for the search input box */
+        #searchBox {
+            width: 100%;
+            max-width: 300px;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        /* Container to display cards side-by-side using Flexbox */
+        #cardContainer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        /* Individual student card style */
+        .student-card {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            width: 200px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .student-card h3 {
+            margin-top: 0;
+            color: #007BFF;
+        }
+
+        .student-card p {
+            margin: 5px 0;
+            font-size: 14px;
+            color: #555;
+        }

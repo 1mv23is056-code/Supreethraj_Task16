@@ -24,4 +24,3 @@ This project is a small web app that shows student cards on a page. It uses `ind
 ## Reflection & Key Takeaways
 I learned how JavaScript can make HTML content appear on the page by creating elements in `script.js`. The search feature uses a filter to show only students whose names match what I type.
 
-I also learned how `style.css` makes the cards look neat and how `index.html` gives the page structure. This project helped me understand how HTML, CSS, and JavaScript work together.
